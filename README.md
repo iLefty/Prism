@@ -37,6 +37,7 @@ If using Mongo, download the `Prism-(version)-all.jar` file. Otherwise, download
 - `/pr rb (parameters)` - Rollback, filtering by parameters.
 - `/pr rs (parameters)` - Restore, filtering by parameters.
 - `/pr undo` - Undo your last rollback/restore action.
+- `/pr i` - Enable inspection mode.
 
 ## Parameters
 
